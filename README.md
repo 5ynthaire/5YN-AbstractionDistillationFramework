@@ -67,11 +67,11 @@ Slower LLM responses, misinterpretations, undesired behavior
 
 **Human-LLM Communication**
 
-Refining LLM prompts, both ad-hoc prompting language as well as prompt artifacts crafted for reuse.
+- Refining LLM prompts, both ad-hoc prompting language as well as prompt artifacts crafted for reuse.
 
 **Human-To-Human Communication**
 
-Example of integration to writing style, where precise word choice serves as backbone: [Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)
+- Example of integration to writing style, where precise word choice serves as backbone: [Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)
 
 ## License
 
