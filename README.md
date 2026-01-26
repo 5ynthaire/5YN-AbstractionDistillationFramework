@@ -2,7 +2,7 @@
 
 ## Overview and Purpose
 
-A lightweight framework providing a structured process for distilling abstract structures and presenting them with precise language. Applicable to prompt refinement workflows for high-fidelity human-LLM communication, extensible to human-to-human communication.
+A lightweight framework for distilling abstract structures and presenting them with precise language. Applicable to prompt refinement workflows for high-fidelity human-LLM communication, extensible to human-to-human communication.
 
 ## About
 
