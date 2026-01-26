@@ -39,18 +39,14 @@ Slower LLM responses, misinterpretations, undesired behavior
 - Abstraction path for LLM prompting: Specific issue (Anecdote) -> Rules (Constraint-based enforcement)-> Principles (Expansive, adaptable and repeatable guide
 
 
-```
-Example: "Be good" over a laundry list of do's and don'ts
-```
+```Example: "Be good" over a laundry list of do's and don'ts```
 
 ### II. Conceptual Modelling: Higher order structures preferred over situational specifics
 
 - Situation and condition-based models add cognitive load.
 - Extract general, reusable principles for lightweight, broadly applicable and adaptable instructions with minimal cognitive load.
 
-```
-Example: "Throw to the base the lead runner is advancing to" over situational instructions.
-```
+```Example: "Throw to the base the lead runner is advancing to" over situational instructions.```
 
 ### III. Language: Abstraction and precision
 
@@ -59,9 +55,7 @@ Example: "Throw to the base the lead runner is advancing to" over situational in
 - Thus, language must be calibrated to be abstract, using precise word choice for minimal drift between intent and meaning.
 - Enforcement qualifiers should be dropped in favor of principles with cited cost of non-adherence.
 
-```
-Example: "Meta discussion / Subject matter" over "Protocol Layer / Embedded Payload"
-```
+```Example: "Meta discussion / Subject matter" over "Protocol Layer / Embedded Payload."```
 
 ### IV. Abstraction Cap
 
