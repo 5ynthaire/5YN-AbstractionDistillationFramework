@@ -16,15 +16,15 @@ A lightweight framework providing a structured process for distilling abstract s
 ### Drivers
 
 1. Noise
-  introduced by
-  - Qualifiers
-  - Imprecise word choice
-  - Overt specificity
+    introduced by
+    - Qualifiers
+    - Imprecise word choice
+    - Overt specificity
 
 2. Cognitive load
-  introduced by
-  - Rules-based constraints requiring a comprehensive web to cover scenarios and edge cases
-  - Principles-based directives that remain specific to scenarios
+    introduced by
+    - Rules-based constraints requiring a comprehensive web to cover scenarios and edge cases
+    - Principles-based directives that remain specific to scenarios
 
 ### Outcome
 
