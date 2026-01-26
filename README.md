@@ -36,8 +36,7 @@ Slower LLM responses, misinterpretations, undesired behavior
 
 - Anecdotal constriction vs Fractal expansion: Rules constrain without providing guidance, while principles provide direction where rules lack coverage.
 
-- Abstraction path for LLM prompting: Specific issue (Anecdote) -> Rules (Constraint-based enforcement)-> Principles (Expansive, adaptable, and repeatable guide
-
+- Abstraction path for LLM prompting: Specific issue (Anecdote) -> Rules (Constraint-based enforcement)-> Principles (Expansive, adaptable, and repeatable guide)
 
 ```Example: "Be good" over a laundry list of do's and don'ts```
 
