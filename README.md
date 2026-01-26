@@ -2,7 +2,7 @@
 
 ## Overview and Purpose
 
-A lightweight framework providing a structured process for distilling abstract structures and presenting them with precise language. Applicable to prompt refinement workflows for high fidelity human-LLM communication, extensible to human-to-human communication.
+A lightweight framework providing a structured process for distilling abstract structures and presenting them with precise language. Applicable to prompt refinement workflows for high-fidelity human-LLM communication, extensible to human-to-human communication.
 
 ## About
 
@@ -24,7 +24,7 @@ A lightweight framework providing a structured process for distilling abstract s
 2. Cognitive load
     introduced by
     - Rules-based constraints requiring a comprehensive web to cover scenarios and edge cases
-    - Principles-based directives that remain specific to scenarios
+    - Principle-based directives that remain specific to scenarios
 
 ### Outcome
 
@@ -36,7 +36,7 @@ Slower LLM responses, misinterpretations, undesired behavior
 
 - Anecdotal constriction vs Fractal expansion: Rules constrain without providing guidance, while principles provide direction where rules lack coverage.
 
-- Abstraction path for LLM prompting: Specific issue (Anecdote) -> Rules (Constraint-based enforcement)-> Principles (Expansive, adaptable and repeatable guide
+- Abstraction path for LLM prompting: Specific issue (Anecdote) -> Rules (Constraint-based enforcement)-> Principles (Expansive, adaptable, and repeatable guide
 
 
 ```Example: "Be good" over a laundry list of do's and don'ts```
@@ -44,11 +44,11 @@ Slower LLM responses, misinterpretations, undesired behavior
 ### II. Conceptual Modelling: Higher order structures preferred over situational specifics
 
 - Situation and condition-based models add cognitive load.
-- Extract general, reusable principles for lightweight, broadly applicable and adaptable instructions with minimal cognitive load.
+- Extract general, reusable principles for lightweight, broadly applicable, and adaptable instructions with minimal cognitive load.
 
 ```Example: "Throw to the base the lead runner is advancing to" over situational instructions.```
 
-### III. Language: Abstraction and precision
+### III. Language: Abstraction and Precision
 
 - Language clarifies, yet can introduce noise through specificity.
 - Linguistic noise causes interpretive anchoring to irrelevant concepts or opens door to unwarranted extrapolations.
@@ -59,9 +59,19 @@ Slower LLM responses, misinterpretations, undesired behavior
 
 ### IV. Abstraction Cap
 
-- The degree of abstraction shall be no more or less required than which is necessary to account for all scenarios the text is to cover.
+- The degree of abstraction shall be no more or less than what is necessary to account for all scenarios the text is to cover.
 - Inadequate abstraction introduces noise and irregular edges to conceptualization.
 - Superfluous abstraction introduces ambiguity, enabling interpretive drift.
+
+## Applications
+
+### Human-LLM Communication
+
+- Refining LLM prompts, both ad-hoc prompting language as well as prompt artifacts crafted for reuse.
+
+### Human-To-Human Communication
+
+- Example of integration to writing style, where precise word choice serves as backbone: [Miyako Prose](https://github.com/5ynthaire/5YN-MiyakoProse)
 
 ## License
 
