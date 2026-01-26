@@ -32,7 +32,7 @@ Slower LLM responses, misinterpretations, undesired behavior
 
 ## Framework
 
-### Behavioral Driver: Principles favored over rules
+### I. Behavioral Driver: Principles favored over rules
 
 - Anecdotal constriction vs Fractal expansion: Rules constrain without providing guidance, while principles provide direction where rules lack coverage.
 
@@ -43,7 +43,7 @@ Slower LLM responses, misinterpretations, undesired behavior
 Example: "Be good" over a laundry list of do's and don'ts
 ```
 
-### Conceptual Modelling: Higher order structures preferred over situational specifics
+### II. Conceptual Modelling: Higher order structures preferred over situational specifics
 
 - Situation and condition-based models add cognitive load.
 - Extract general, reusable principles for lightweight, broadly applicable and adaptable instructions with minimal cognitive load.
@@ -52,7 +52,7 @@ Example: "Be good" over a laundry list of do's and don'ts
 Example: "Throw to the base the lead runner is advancing to" over situational instructions.
 ```
 
-### Language: Abstraction and precision
+### III. Language: Abstraction and precision
 
 - Language clarifies, yet can introduce noise through specificity.
 - Linguistic noise causes interpretive anchoring to irrelevant concepts or opens door to unwarranted extrapolations.
@@ -63,7 +63,7 @@ Example: "Throw to the base the lead runner is advancing to" over situational in
 Example: "Meta discussion / Subject matter" over "Protocol Layer / Embedded Payload"
 ```
 
-### Abstraction Cap
+### IV. Abstraction Cap
 
 - The degree of abstraction shall be no more or less required than which is necessary to account for all scenarios the text is to cover.
 - Inadequate abstraction introduces noise and irregular edges to conceptualization.
