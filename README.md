@@ -38,7 +38,7 @@ Slower LLM responses, misinterpretations, undesired behavior
 
 - Abstraction path for LLM prompting: Specific issue (Anecdote) -> Rules (Constraint-based enforcement)-> Principles (Expansive, adaptable, and repeatable guide)
 
-```Example: "Be good" over a laundry list of do's and don'ts```
+```Example: "Customer satisfaction" over a laundry list of do's and don'ts```
 
 ### II. Conceptual Modelling: Higher order structures preferred over situational specifics
 
